@@ -222,16 +222,14 @@ function sendWhatsAppOrder(event) {
     return;
   }
 
-  const msg = `Hi JMJ OIL Team! 👋
+  const msg = `Hi JMJ Team! 
 
 I would like to place an order:
 
-🛒 *Order Details:*
-• Product: ${state.name}
+Order Details:
 • Pack Size: ${state.size}
-• Quantity: ${state.quantity} Pc(s)
 
-📍 *Delivery Info:*
+Delivery Info:
 • Name: ${name}
 • Address: ${addr}
 
