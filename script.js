@@ -5,12 +5,12 @@
 // ── PRODUCT STATE (2 products only) ──────────────────────────────────────
 const productState = {
   "a2-cow": {
-    name: "A2 Desi Cow Ghee",
+    name: "Pure Ghee",
     size: "200ml",
     quantity: 1
   },
   "buffalo": {
-    name: "Pure Buffalo Ghee",
+    name: "Pure  Ghee",
     size: "500ml",
     quantity: 1
   }
