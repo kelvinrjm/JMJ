@@ -235,7 +235,7 @@ Delivery Info:
 
 Please confirm the order and share payment details. Thank you!`;
 
-  const url = `https://wa.me/919944966440?text=${encodeURIComponent(msg)}`;
+  const url = `https://wa.me/919442442667?text=${encodeURIComponent(msg)}`;
   closeCheckout();
   window.open(url, "_blank");
 }
